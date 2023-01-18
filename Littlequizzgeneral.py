@@ -2,10 +2,13 @@
 
 # Simple quiz en utilisant les dictionnaires
 def main() :
-    # Dictionnaire des questions
+    # Questions
     questions = {
-        "Quel est le nom du président de la République Française ?" : "Emmanuel Macron",
-        "Quel est le nom du président de la République du Sénégal ?" : "Macky Sall",
-        "Quel est le nom du président de la République de la Côte d'Ivoire ?" : "Alassane Ouattara",
-        "Quel est le nom du président de la République du Mali ?" : "Ibrahim B"
+        "Who is in 2023 the French President ?" : "Emmanuel Macron",
+        "Who is the US president in 2023 ?" : "Joe Biden",
+        "What is the capital of France ?" : "Paris",
+        "What is the capital of the US ?" : "Washington",
+        "What is the capital of the UK ?" : "London",
+        "Who write the song 'Hybrid Theory' ?" : "Linkin Park",
     }
+    
