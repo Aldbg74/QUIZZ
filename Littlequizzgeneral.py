@@ -12,7 +12,7 @@
 # You can modify the files to make your own questions.
 # Not gonna explain you how to do it's easy as least you can read (So if you reading me it's ok u can do it, i belive in you)
 #
-#Alexis.D - egullin
+#Alexis.D 
 #2023
 #-----------------
 #
