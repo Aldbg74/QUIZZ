@@ -12,10 +12,13 @@
 # You can modify the files to make your own questions.
 # Not gonna explain you how to do it's easy as least you can read (So if you reading me it's ok u can do it, i belive in you)
 #
-#Alexis.D
+#Alexis.D - egullin
 #2023
 #-----------------
-
+#
+# Here to put a random.randint for made a aleatoire choice of questions.
+# Well trying..... -
+#
 #-----------------
 
 def new_game():
@@ -92,20 +95,31 @@ questions = {
  "Who is Emanuel Macron ?" : "B",
  "Who is Nothing, Nowhere ?" : "B",
  "Who is Jacques Brel ?" : "C",
- "Who is "
+ "Who is the first man on the moon ?" : "B", 
+ "What is the capital of Switzerland ?" : "C",
+ "What is the biggest country of the world ?" : "C",
+ "In the show Chuck, who is Chuck Bartowski ?" : "B",
+ "In Breaking Bad, who is Heizenberg ?" : "A",
  }
 
 #-----------------
 
 options = [["A. Donald Trump", "B. Joe Biden", "C. Elon Musk"],
 ["A. A politician", "B. A music band", "C. A gamer"],
-["A. 1976", "B. 1978", "C.1975"]
-["A. Paris", "B. London", "C. New York"]
-["A. Paris", "B. London", "C. New York"]
-["A. x", "B. 42", "C. 3,14" ]
-["A. A French Actor", "B. French President", "C. Nobody"]
-["A. A Polititian", "B. It's Nothing ", "C. 404"]
-["A. A Italian Singer", "B. A Portugese Singer", "C. A French Singer"]]
+["A. 1976", "B. 1978", "C. 1975"],
+["A. Paris", "B. London", "C. New York"],
+["A. Paris", "B. London", "C. New York"],
+["A. x", "B. 42", "C. 3,14" ],
+["A. A French Actor", "B. French President", "C. Nobody"],
+["A. A Polititian", "B. It's Nothing ", "C. 404"],
+["A. A Italian Singer", "B. A Portugese Singer", "C. A French Singer"],
+["A. Jack Baldwin", "B. Neil Amstrong ", "C. JFK"],
+["A.Paris", "B. Geneva", "C. Berne"],
+["A. Affrica", "B. United States Of America", "C. Russia"],
+["A. A Buy More employee", "B. The Intersec", "C. A Mass Killer"],
+["A. Walther", "B. Jessy", "C. We didn't know"],
+]
+# ["A.", "B.", "C."],
 
 #-----------------
 
@@ -120,10 +134,12 @@ print ("Bye")
 
 #The end
 
-#Play the gitar like young satana
+#Play the gitar like a young satana 
 
 # TO BE ADDED (Maybe)
 
 # random.randint for the questions
 # More questions
 # MORE questions
+
+#-----------------
